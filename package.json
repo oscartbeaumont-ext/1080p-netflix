@@ -1,0 +1,18 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.2.4",
+    "electron-widevinecdm": "./electron-widevinecdm"
+  },
+  "dependencies": {
+    "glob-to-regexp": "^0.4.1"
+  }
+}
